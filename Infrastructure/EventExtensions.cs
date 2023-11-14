@@ -1,6 +1,6 @@
-﻿using EchoEvent.Models;
+﻿using EchoEvent.Bot.Models;
 
-namespace EchoEvent.Infrastructure;
+namespace EchoEvent.Bot.Infrastructure;
 
 public static class EventExtensions
 {

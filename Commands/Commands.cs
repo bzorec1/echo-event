@@ -1,8 +1,8 @@
 ﻿using Discord.Commands;
-using EchoEvent.Infrastructure;
-using EchoEvent.Models;
+using EchoEvent.Bot.Infrastructure;
+using EchoEvent.Bot.Models;
 
-namespace EchoEvent.Commands;
+namespace EchoEvent.Bot.Commands;
 
 public class Commands : ModuleBase<SocketCommandContext>
 {

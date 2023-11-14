@@ -1,4 +1,4 @@
-﻿namespace EchoEvent.Models;
+﻿namespace EchoEvent.Bot.Models;
 
 public class Event
 {

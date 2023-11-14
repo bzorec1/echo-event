@@ -1,4 +1,4 @@
-﻿namespace EchoEvent.Infrastructure;
+﻿namespace EchoEvent.Bot.Infrastructure;
 
 public interface ITimeProvider
 {
